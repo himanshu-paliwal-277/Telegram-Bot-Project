@@ -9,7 +9,7 @@ To set up the project, please follow the steps below:
    Use the following command to clone the repository to your local machine:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/himanshu-paliwal-277/Telegram-Bot-Project
    ```
 
 2. **Install the Dependencies**
